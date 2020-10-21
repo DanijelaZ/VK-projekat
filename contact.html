@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Sweet Cake bakery</title>
+	<link rel="stylesheet" href="stil/style.css">
+	<style>
+		@font-face{
+		font-family: kul;
+		src:url(Demo_ConeriaScript.ttf);
+		}
+	</style>
+</head>
+<body>
+	<div id="glavni">
+		<nav>
+			<img src="images/logo.jpg" id="logo">
+			<ul>
+				<a href="index.html"><li>Početna</li></a>
+				<a href="onama.html"><li>O nama</li></a>
+				<a href="products.html"><li>Proizvodi</li></a>
+				<a href="cenovnik.html"><li>Cenovnik</li></a>
+				<a href="contact.html"><li class="chosen">Kontakt</li></a>
+			</ul>	
+		</nav><hr>
+		<img src="images/anim.gif" id="animacija">
+		<div class="forma">
+			<form  id="kontaktforma">
+				<p>Vaše Ime:</p><input type="text" placeholder="...">
+				<p>Zakazite termin:</p><input type="date" value="2019-12-27">
+				<p>E-mail:</p><input type="email" placeholder="xxxxx@gmail.com">
+				<p>Izaberite zeljenu poslasticu:</p>
+				<select>
+					<optgroup label="Muffini & Cupcake">
+						<option>Vanila - Malina</option>
+						<option>Čoko – Lešnik</option>
+						<option>Cupcake-ovi sa porukama</option>
+						<option>Pastelni cupcake-ovi</option>
+						<option>Kids lešnik</option>
+						<option>Čoko – Božićni ~ limited edition ~ </option>
+						<option>Tamna čokolada</option>
+						<option>Čokolada-Višnja</option>
+						<option>Vanila</option>
+					</optgroup>				
+					<optgroup label="Torte">
+						<option>Grandisimo</option>
+						<option>Švarcvald</option>
+						<option>Cheesecake</option>
+						<option>Čokoladna</option>
+						<option>Čoko – Plazma</option>
+						<option>Kids lešnik</option>
+						<option>Kapri</option>
+					</optgroup>
+				</select><br><br>
+				<textarea placeholder="Navedite posebne karakteristike vase poslastice..."></textarea>
+				<input type="submit" value="Posalji" class="dugmici">
+				<input type="reset" value="Resetuj" class="dugmici">
+			</form>
+		</div>		
+	</div>
+	<footer>
+	<p>Follow Us on <a href="https://www.facebook.com/" class="stranice">  
+						Facebook <img src="images/fb.png" class="simboli"></a>
+					<a href="https://www.instagram.com/" class="stranice"> 
+						Instagram <img src="images/insta.png" class="simboli"></a>
+					<a href="https://www.pinterest.com/" class="stranice"> 
+						Pinterest <img src="images/pinterest.png" class="simboli"></a>	
+	</p>
+	<hr>
+	&copy;Copyright by Cake Bakery.</footer>
+</body>
+</html>
