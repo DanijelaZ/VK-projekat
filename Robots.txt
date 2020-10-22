@@ -1,2 +1,2 @@
 User agent: *
-Disallow:/cenovnik.html
+Disallow:/katalog.pdf
