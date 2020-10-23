@@ -1,3 +1,8 @@
+@font-face{
+		font-family: kul;
+		src:url(Demo_ConeriaScript.ttf);
+		}
+
 body{
 	background-color: #ebebe0;
 	padding:0px;
