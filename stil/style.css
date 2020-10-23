@@ -88,6 +88,13 @@ li:hover{
 section{
 	display:inline-block;
 }
+.uvod{
+	color:#ff9999;
+	font-weight:bold;
+	background-color:white;
+	border:1px solid #ff9999;
+	border-radius:15px;
+}
 article{
 	float:left;
 	width:80%;
