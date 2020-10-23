@@ -88,9 +88,11 @@ li:hover{
 section{
 	display:inline-block;
 }
-.uvod{
+.uvodni h1,h2{
 	color:#ff9999;
 	font-weight:bold;
+}
+.uvodni{
 	background-color:white;
 	border:1px solid #ff9999;
 	border-radius:15px;
