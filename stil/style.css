@@ -105,6 +105,9 @@ aside{
 	padding:15px 10px;
 	border-radius:15px;
 }
+span{
+	color:white;
+}
 .fb-like{
 	background-image:#ff9999;
 }
