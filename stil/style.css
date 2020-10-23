@@ -1,7 +1,7 @@
 body{
 	background-color: #ebebe0;
-	padding:0px;
-	margin:0% 12%;
+	padding:0;
+	margin:0 12%;
 	font-family: kul;
 }
 .chosen{
@@ -13,7 +13,7 @@ body{
 	width:110px;
  	height:90px;
  	display: inline;
- 	border-radius: 25px 0px 25px 0px;
+ 	border-radius: 25px 0 25px 0;
 }
 ul{ 
 	padding:10px 15px;
@@ -26,7 +26,7 @@ li{
 	border: 2px solid white;
 	margin:2px;
 	padding:5px 10px;
-	border-radius: 25px 0px 25px 0px;
+	border-radius: 25px 0 25px 0;
 	background-color:  #ff9999;
 }
 a{
@@ -115,10 +115,10 @@ aside{
 	border-radius:15px;
 }
 span{
-	color:white;
+	color:black;
 }
 .fb-like{
-	background-image:#ff9999;
+	background-image: #ff9999;
 }
 
  footer{
@@ -132,7 +132,7 @@ span{
  }
  .stranice{
  	color:black;
- 	letter-spacing:0px;
+ 	letter-spacing:0;
  	font-size:15px;
  }
  .simboli{
@@ -166,7 +166,7 @@ span{
 .produkti{
 	height:150px;
 	width:180px;
-	border-radius:30px 0px 30px 0px;
+	border-radius:30px 0 30px 0;
 }
 .produkti:hover{
 	box-shadow: 5px 8px #ff9999;
@@ -219,7 +219,7 @@ nav{
 @media screen and (max-width:600px){
 	nav{display: none;}
 	.ham{display: inline;}
-	body{margin:0px 5px;}	
+	body{margin:0 5px;}	
 	aside{display:inline-block;}
 	.asideslika{display:none;}
 	article{width:350px;}
@@ -230,20 +230,20 @@ nav{
  }
 #kontaktforma{
 	display:inline; 
-   	width:900px;
     height: 550px;  
+   	width: 900px;
 }
 input[type=text], input[type=email], select{
 	border:2px solid silver;
-	padding:12px;
 	border-radius: 5px 20px;
+	padding:12px;
 	width:45%;
 }
 textarea{
-	width:45%;
-	height: 100px;
 	border-radius: 20px;
+	height: 100px;
 	padding:10px;
+	width:45%;
 }
 .dugmici{
 	border:2px solid #ff9999;
@@ -254,7 +254,7 @@ textarea{
 	margin-left:30px;
 	margin-right:10px;
 	padding:10px;
-	font-size:27px:;
+	font-size: 27px;
 }
 .dugmici:hover{
 	border:2px solid white;
