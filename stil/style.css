@@ -10,7 +10,7 @@ li:hover{background-color:#fff; color:#f99; border:2px solid #f99}
 #insta{ color:#f99;font-size:18px; border:2px solid #f99; border-radius:15px;padding:5px; font-family:kul;letter-spacing:3px; margin:25px 20%}
 #insta:hover{ color:#fff;background-color:#f99}
 .asideslika{height:100px;width:120px;border-radius:25px;border:2px solid #f99}
-#glavni{width:50%;border:3px solid #f99;background-color:#ffe6ff;padding:10px 25px;border-radius:15px}
+#glavni{width:95%;border:3px solid #f99;background-color:#ffe6ff;padding:10px 25px;border-radius:15px}
 section{display:inline-block}
 article{float:left;width:80%;padding:10px 70px 10px 20px;font-size:20px;background-color:#fff;font-weight:700;color:#f99;border:1px solid #f99; border-radius:15px}
 aside{background-color:#fff;color:#f99;font-weight:700;width:270px;display:inline-block;float:right;border:3px solid #f99;padding:15px 10px;border-radius:15px}
