@@ -1,1 +1,50 @@
-body{background-color:#ebebe0;padding:0;margin:0 12%;font-family:kul}.chosen{background-color:#fff;color:#f99;border-color:#f99}#logo{width:110px;height:90px;display:inline;border-radius:25px 0 25px 0}ul{padding:10px 15px;display:inline-block}li{list-style-type:none;float:left;border:2px solid #fff;margin:2px;padding:5px 10px;border-radius:25px 0 25px 0;background-color:#f99}a{color:#fff;font-weight:700;letter-spacing:5px;font-size:25px;text-decoration:none}li:hover{background-color:#fff;color:#f99;border:2px solid #f99}.linkovi{color:#4dd2ff;font-weight:700;font-size:15px}.linkovi:hover{border:2px solid #4dd2ff;border-radius:90%;padding:5px;font-size:1em}#insta{color:#f99;font-size:18px;border:2px solid #f99;border-radius:15px;padding:5px;font-family:kul;letter-spacing:3px;margin:25px 20%}#insta:hover{color:#fff;background-color:#f99}.asideslika{height:100px;width:120px;border-radius:25px;border:2px solid #f99}#glavni{width:95%;border:3px solid #f99;background-color:#ffe6ff;padding:10px 25px;border-radius:15px}section{display:inline-block}article{float:left;width:80%;padding:10px 70px 10px 20px;font-size:20px;background-color:#fff;font-weight:700;color:#f99;border:1px solid #f99;border-radius:15px}aside{background-color:#fff;color:#f99;font-weight:700;width:270px;display:inline-block;float:right;border:3px solid #f99;padding:15px 10px;border-radius:15px}footer{clear:both;width:100%;margin-top:10px;margin-bottom:10px;padding:10px;background-color:#f99;text-align:center}.stranice{color:#000;letter-spacing:0;font-size:15px}.simboli{height:17px;width:17px;color:#000}.simboli,.stranice:hover{color:#ebebe0;font-size:1em}.about{display:inline-block;border:2px solid #f99;padding:15px 20px;background-color:#fff;margin-bottom:10px}.glavni{margin-left:200px;height:200px;width:170px;border-radius:20px}.radnici{margin-left:50px;height:200px;width:300px;border-radius:20px}.produkti{height:150px;width:180px;border-radius:30px 0 30px 0}.produkti:hover{box-shadow:5px 8px #f99}#mafini,#torte{border-bottom:5px solid #fff;display:inline;margin-right:150px;margin-bottom:15px;font-size:15px}td,th{padding:8px;border-bottom:2px solid #fff}.ham{width:70px}nav{display:none}.padajuci{position:relative;display:inline-block}.padajuciE{display:none;position:absolute;background-color:#fff;border-color:#f99;min-width:150px;z-index:10}.padajuciE a{color:#fff;padding:5px 10px;text-decoration:none;display:block;text-decoration:italic}.padajuci:hover .padajuciE{display:block}@media screen and (min-width:650px){nav{display:inline}.ham{display:none}.padajuciE{display:none}}@media screen and (max-width:600px){nav{display:none}.ham{display:inline}body{margin:0 5px}aside{display:inline-block}.asideslika{display:none}article{width:350px}}.forma{background-image:linear-gradient(#f99,#add8e6);padding:20px}#kontaktforma{display:inline;width:900px;height:550px}input[type=email],input[type=text],select{border:2px solid silver;padding:12px;border-radius:5px 20px;width:45%}textarea{width:45%;height:100px;border-radius:20px;padding:10px}.dugmici{border:2px solid #f99;background:#fff;color:#f99;border-radius:45px;margin-bottom:20px;margin-left:30px;margin-right:10px;padding:10px;font-size:27px:}.dugmici:hover{border:2px solid #fff;background-color:#f99;color:#fff;font-size:1em}#animacija{display:inline;position:relative;top:30px;right:50px;float:right;height:120px;width:120px;animation:Animacija 5s 3}@keyframes Animacija{0%{top:30px;right:50px}50%{top:380px;right:50px}100%{top:30px;right:50px}}
+body{background-color:#ebebe0;padding:0; margin:0 10%;font-family:kul}
+.chosen{background-color:#fff;color:#f99;border-color:#f99}
+#logo{width:110px;height:90px;display:inline;border-radius:25px 0 25px 0}
+ul{padding:10px 15px;display:inline-block}
+li{list-style-type:none;float:left;border:2px solid #fff;margin:2px;padding:5px 10px;border-radius:25px 0 25px 0;background-color:#f99}
+a{ color:#fff; font-weight:700; letter-spacing:5px; font-size:25px; text-decoration:none}
+li:hover{background-color:#fff; color:#f99; border:2px solid #f99}
+.linkovi{ color:#4dd2ff; font-weight:700; font-size:15px}
+.linkovi:hover{ border:2px solid #4dd2ff; border-radius:90%; padding:5px; font-size:1em}
+#insta{ color:#f99;font-size:18px; border:2px solid #f99; border-radius:15px;padding:5px; font-family:kul;letter-spacing:3px; margin:25px 20%}
+#insta:hover{ color:#fff;background-color:#f99}
+.asideslika{height:100px;width:120px;border-radius:25px;border:2px solid #f99}
+#glavni{width:95%;border:3px solid #f99;background-color:#ffe6ff;padding:10px 25px;border-radius:15px}
+section{display:inline-block}
+article{float:left;width:80%;padding:10px 70px 10px 20px;font-size:20px;background-color:#fff;font-weight:700;color:#f99;border:1px solid #f99; border-radius:15px}
+aside{background-color:#fff;color:#f99;font-weight:700;width:270px;display:inline-block;float:right;border:3px solid #f99;padding:15px 10px;border-radius:15px}
+footer{clear:both;width:100%;margin-top:10px;margin-bottom:10px;padding:10px;background-color:#f99;text-align:center}
+.stranice{color:#000;letter-spacing:0;font-size:15px}.simboli{height:17px;width:17px;color:#000}
+.simboli,.stranice:hover{color:#ebebe0;font-size:1em}
+.about{display:inline-block;border:2px solid #f99;padding:15px 20px;background-color:#fff;margin-bottom:10px}
+.glavni{margin-left:200px;height:200px;width:170px;border-radius:20px}
+.radnici{margin-left:50px;height:200px;width:300px;border-radius:20px}
+.produkti{height:150px;width:180px;border-radius:30px 0 30px 0}
+.produkti:hover{box-shadow:5px 8px #f99}
+#mafini,#torte{border-bottom:5px solid #fff;display:inline;margin-right:150px;margin-bottom:15px;font-size:15px}
+td,th{padding:8px;border-bottom:2px solid #fff}
+.ham{width:70px}nav{display:none}
+.padajuci{position:relative;display:inline-block}
+.padajuciE{display:none;position:absolute; background-color:#fff;border-color:#f99;min-width:150px;z-index:10}
+.padajuciE a{color:#fff;padding:5px 10px;text-decoration:none;display:block;text-decoration:italic}
+.padajuci:hover .padajuciE{display:block}
+@media screen and (min-width:650px){nav{display:inline}
+.ham{display:none}
+.padajuciE{display:none}}
+@media screen and (max-width:600px)
+{nav{display:none}
+  .ham{display:inline}
+  body{margin:0 5px}
+  aside{display:inline-block}
+.asideslika{display:none}
+ article{width:350px}}
+.forma{background-image:linear-gradient(#f99,#add8e6);padding:20px}
+#kontaktforma{display:inline;width:900px;height:550px}
+input[type=email],input[type=text],select{border:2px solid silver;padding:12px;border-radius:5px 20px;width:45%}
+textarea{width:45%;height:100px;border-radius:20px;padding:10px}
+.dugmici{border:2px solid #f99;background:#fff;color:#f99;border-radius:45px;margin-bottom:20px;margin-left:30px;margin-right:10px;padding:10px;font-size:27px:}
+.dugmici:hover{border:2px solid #fff;background-color:#f99;color:#fff;font-size:1em}
+#animacija{display:inline;position:relative;top:30px;right:50px;float:right;height:120px;width:120px;animation:Animacija 5s 3}
+@keyframes Animacija{0%{top:30px;right:50px}50%{top:380px;right:50px}100%{top:30px;right:50px}}
+
