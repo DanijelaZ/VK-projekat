@@ -20,8 +20,7 @@ footer{clear:both;width:100%;margin-top:10px;margin-bottom:10px;padding:10px;bac
 .about{display:inline-block;border:2px solid #f99;padding:15px 20px;background-color:#fff;margin-bottom:10px}
 .glavni{margin-left:200px;height:200px;width:170px;border-radius:20px}
 .radnici{margin-left:50px;height:200px;width:300px;border-radius:20px}
-.vreme{padding-left:15px; font-size:1em; background-color:green;}
-/*.vreme p{font-size:1em;}*/
+#vreme{padding-left:15px; font-size:1em; background-color:green;}/*dfgzxcdfghjklkiuy7654ewsxdcfvgbhjk,m wertyujnbvcxzaFGHBVCXh*/
 .produkti{height:150px;width:180px;border-radius:30px 0 30px 0}
 .produkti:hover{box-shadow:5px 8px #f99}
 #mafini,#torte{border-bottom:5px solid #fff;display:inline;margin-right:150px;margin-bottom:15px;font-size:15px}
